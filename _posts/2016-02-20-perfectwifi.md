@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing
-datePublished: '2016-02-20T01:14:24.717Z'
-dateModified: '2016-02-20T01:13:43.275Z'
+datePublished: '2016-02-20T01:20:41.739Z'
+dateModified: '2016-02-20T01:19:41.214Z'
 title: PerfectWiFi
 author: []
+sourcePath: _posts/2016-02-20-perfectwifi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-perfectwifi.md
-published: true
 url: perfectwifi/index.html
 _type: Article
 
