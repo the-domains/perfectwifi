@@ -2,6 +2,7 @@ name: PerfectWiFi
 favicon: null
 layout_spectrum: 0.9127857820130885
 typography_spectrum: 0.3715575358364731
+title: PerfectWiFi
 cta:
   domain: null
   bucket: null
