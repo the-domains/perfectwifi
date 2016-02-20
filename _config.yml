@@ -1,6 +1,6 @@
 name: PerfectWiFi
 favicon: null
-layout_spectrum: 0.9127857820130885
+layout_spectrum: 0.258
 typography_spectrum: 0.3715575358364731
 title: PerfectWiFi
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.6153211714699864
   lightness: 0.6754569006152451
   saturation: 0.588219823082909
-  rhythmicContrast: 0.5690255898516625
+  rhythmicContrast: 0.75
 purpose: []
