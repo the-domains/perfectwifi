@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PerfectWiFi]]></title>
         <description><![CDATA[PerfectWiFi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/perfectwifi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 01:14:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 01:20:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/perfectwifi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PerfectWiFi]]></title>
             <description><![CDATA[<article><h1>PerfectWiFi</h1><p>                                                                             Hello World</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a938ea100c13f781f03cb49a523de4149bb5266a.jpg"></article>]]></description>
-            <link>undefinedperfectwifi/index.html</link>
+            <link>https://thegrid.ai/perfectwifi/perfectwifi/index.html</link>
             <guid isPermaLink="false">ea6bcf35-c58b-4542-97e8-66c445c595bd</guid>
-            <pubDate>Sat, 20 Feb 2016 01:14:24 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 01:20:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
