@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Testing
-datePublished: '2016-02-20T01:20:41.739Z'
-dateModified: '2016-02-20T01:19:41.214Z'
+datePublished: '2016-02-20T01:33:09.745Z'
+dateModified: '2016-02-20T01:30:24.506Z'
 title: PerfectWiFi
 author: []
 sourcePath: _posts/2016-02-20-perfectwifi.md
